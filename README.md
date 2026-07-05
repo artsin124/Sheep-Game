@@ -75,5 +75,5 @@ If you have a connected Android device or running emulator, deploy the applicati
 adb devices
 
 # Install and run
-/Users/artsin124/.local/bin/android run
+android run
 ```
